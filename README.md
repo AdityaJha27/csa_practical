@@ -1,5 +1,6 @@
 # csa_practical
-
+## practical1&2
+basemachine.cpu
 ## practical3
 add.a
 ## practical4
