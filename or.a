@@ -1,0 +1,9 @@
+INP
+STA NUM
+INP
+AND NUM
+OR NUM
+OUT
+HLT
+
+NUM: .data 1 0
